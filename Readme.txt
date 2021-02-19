@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Hola, Bienvenido.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Te comparto un espacio donde sabrás un poco más de mí, y cómo puedo colaborar contigo.
+
+Excelente día:)
