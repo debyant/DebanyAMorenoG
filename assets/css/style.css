@@ -205,6 +205,18 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+.navbar-light .navbar-brand {
+  background-color: rgba(4, 45, 84);
+}
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+  color: rgba(4, 45, 84);
+}
+.navbar-dark .navbar-brand {
+  color: #ffcb05;
+}
+.navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+  color: #ffdb57;
+}
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
